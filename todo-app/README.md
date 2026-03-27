@@ -1,6 +1,15 @@
 # 📝 To-Do List App (React + Vite)
 
-A simple and user-friendly To-Do List application built using React and Vite. Users can add, delete, edit, and mark tasks as completed.
+## 🔗 GitHub Repository
+
+https://github.com/Dharmendra432/todo-app
+
+---
+
+## 📌 Project Overview
+
+A simple and user-friendly **To-Do List application** built using **React and Vite**.
+Users can add, delete, edit, and mark tasks as completed.
 
 ---
 
@@ -8,8 +17,8 @@ A simple and user-friendly To-Do List application built using React and Vite. Us
 
 * Add new tasks
 * Delete tasks
-* Mark tasks as completed
 * Edit existing tasks
+* Mark tasks as completed
 * Clean and responsive UI
 
 ---
@@ -18,27 +27,27 @@ A simple and user-friendly To-Do List application built using React and Vite. Us
 
 1. Clone the repository:
 
-```bash
-git clone https://github.com/Dharmendra432/todo-app.git
-```
+   ```bash
+   git clone https://github.com/Dharmendra432/todo-app.git
+   ```
 
 2. Navigate to project folder:
 
-```bash
-cd todo-app
-```
+   ```bash
+   cd todo-app
+   ```
 
 3. Install dependencies:
 
-```bash
-npm install
-```
+   ```bash
+   npm install
+   ```
 
 4. Run the application:
 
-```bash
-npm run dev
-```
+   ```bash
+   npm run dev
+   ```
 
 ---
 
@@ -50,9 +59,22 @@ npm run dev
 
 ---
 
-## 📌 Notes
+## 📂 Project Structure
 
-* Make sure `node_modules` is not uploaded to GitHub
-* Run `npm install` before starting the project
+* `src/` → Components and logic
+* `public/` → Static assets
+* `index.html` → Entry file
 
 ---
+
+## 📌 Notes
+
+* `node_modules` is not included in the repository
+* Run `npm install` before starting the project
+* Uses Vite development server
+
+---
+
+## 👨‍💻 Author
+
+Dharmendra
