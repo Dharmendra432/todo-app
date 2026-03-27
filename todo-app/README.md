@@ -17,7 +17,7 @@ A simple Todo List application built using React. Users can add and delete tasks
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/todo-app.git
+   git clone https://github.com/Dharmendra432/todo-app.git
    ```
 
 2. Navigate to project folder:
