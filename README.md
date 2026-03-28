@@ -1,124 +1,48 @@
 # 📝 To-Do List App (React + Vite)
 
+## 📌 Description
 
-
-## 🔗 GitHub Repository
-
-
-
-https://github.com/Dharmendra432/todo-app
-
-
+This is a simple To-Do List application where users can manage daily tasks efficiently. Users can add, delete, edit, and mark tasks as completed.
 
 ---
-
-
-
-## 📌 Project Overview
-
-
-
-A simple and user-friendly **To-Do List application** built using **React and Vite**.
-
-Users can add, delete, edit, and mark tasks as completed.
-
-
-
----
-
-
 
 ## 🚀 Features
 
-
-
 * Add new tasks
-
 * Delete tasks
-
-* Edit existing tasks
-
+* Edit tasks
 * Mark tasks as completed
-
-* Clean and responsive UI
-
-
+* Input validation
+* Confirmation before delete
 
 ---
 
+## 🛠️ How to Run
 
+1. Clone repository:
+   git clone https://github.com/Dharmendra432/todo-app.git
 
-## 🛠️ Installation & Setup
-
-
-
-1. Clone the repository:
-
-
-
-```bash
-
-git clone https://github.com/Dharmendra432/todo-app.git
-
-```
-
-
-
-2. Navigate to project folder:
-
-
-
-```bash
-
-cd todo-app
-
-```
-
-
+2. Go to folder:
+   cd todo-app
 
 3. Install dependencies:
+   npm install
 
-
-
-```bash
-
-npm install
-
-```
-
-
-
-4. Run the application:
-
-
-
-```bash
-
-npm run dev
-
-```
-
-
+4. Run project:
+   npm run dev
 
 ---
-
-
 
 ## 💻 Tech Stack
 
-
-
 * React
-
 * Vite
-
 * CSS
-
-
 
 ---
 
+## 📷 Future Improvements
 
-
-## 📂 Project Structure
-
+* Add local storage
+* Improve UI with Tailwind
+* Add task filters
